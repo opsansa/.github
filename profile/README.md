@@ -1,29 +1,28 @@
-# What is Casa?
-We're one of the first AI property search platforms in the UK.
+## What is Opsansa?
+Opsansa Inc. is the company behind Casa Pro; an AI software solution focused on automating offsite operations for real estate businesses -- though we quickly saw the broader potential of integrated AI systems across industries.
 
-We index the internet, remove duplicate properties then match them with people based on natural language - so seekers can complain as they would to a friend but to our Casa AI. We've lifted the burden of staying actively on top of your property hunt.
+Born from the ashes of the UKs first AI rental agent (used by many thousands monthly), we began to see that the orchestration of multiple Large Language Models meant we could automate complex business tasks beyond renter experience.
 
-The goal is to <b>get time-to-move for renters down to days</b> instead of ~4 weeks. 
+For property managers, brokerages and hospitality operators many common threads emerged... with one clear starting point. Automating support operations to improve satisfaction and give deep oversight for decision makers. This wasn't just "AI customer support", but instead we actually performed administrative tasks across their productivity & property software. 
 
-History has proven this possible and now it's scalable with advancements in AI  technology that we can use for our assistants.
+Opsansa built the first _real_ omnichannel solution for maintaining communication across email, WhatsApp, iMessage, SMS and phone calls without dropping the call or deferring to a human operator. With our goal being to <b>get issue resolution down to minutes</b> instead of days and free up budget and time for the critical workforce. 
 
-## What can you try from Casa today?
-#### Casa Toolkit (AI tooling suite for real estate professionals) - book a [demo here](https://cal.com/rowan-casa-platform/toolkit-demo).
-- We believe it can drive more revenue for listers and better experiences for seekers but are still early in collecting more data.
-- It's discounted for that reason.
-- Don't be shy (we may even lose money but we'll always lock prices for our early adopters). 
-#### Casa Search Application (early access) - try it [here](https://using.casa).
-- Live for rentals in London (and being tested so not always perfectly functional).
-- This is the easiest way to find a place to rent.
-- It's free (hopefully forever).
+Our past experience building award worthy AI agents fuelled this bold vision. Now we're certain the future of automated business ops is possible. With evermore of the operational work (think HR, payroll, rent roll etc.) being done by our "System of Agents".
 
-## What is the future of property search (and proptech on the whole)?
-Some think AI is just a fad. We bet they're very wrong. 
+This is the start for Opsansa. 
 
-The truth is that any task we can do on the internet will (very) soon be fully automated. Right now the possibilities with agentic workflows are endless but the cost of compute is pretty high. 
+Ops... And Nothing Semi Automated.
 
-As the cost of building and scaling AI systems inevitably comes down, personalized experiences will be <b>simple, effective and expected</b>.
+## Previous thoughts on the industry...
+In mid-2024 we wrote about Casa Plus and other products we had in development, with a final remark on proptech -- our thoughts back then on personalization and software experience are still apparent in both wider technology trends and our focus with Opsansa.
 
-For the old (and awful) property platforms they're caught with an innovators dilemma. They've made money for decades from <i>making our lives hard</i> and having you jump through hoops. Whether you're an agent or a home hunter, it's not been a "fun" experience. It might be a while before they consider disrupting themselves with cutting edge technology, like Casa. 😉
-
-Business models and practices will be forced to change by actually giving everyone real value (think being able to preview your life in your new home or even cooler stuff).
+> ## What is the future of property search (and proptech on the whole)?
+> Some think AI is just a fad. We bet they're very wrong. 
+>
+> The truth is that any task we can do on the internet will (very) soon be fully automated. Right now the possibilities with agentic workflows are > endless but the cost of compute is pretty high. 
+>
+> As the cost of building and scaling AI systems inevitably comes down, personalized experiences will be <b>simple, effective and expected</b>.
+>
+> For the old (and awful) property platforms they're caught with an innovators dilemma. They've made money for decades from <i>making our lives hard</i> and having you jump through hoops. Whether you're an agent or a home hunter, it's not been a "fun" experience. It might be a while before they consider disrupting themselves with cutting edge technology, like Casa. 😉
+> 
+> Business models and practices will be forced to change by actually giving everyone real value (think being able to preview your life in your new home or even cooler stuff).
