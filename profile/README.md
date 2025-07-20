@@ -5,7 +5,7 @@ Born from the ashes of the UKs first AI rental agent (used by many thousands mon
 
 For property managers, brokerages and hospitality operators many common threads emerged... with one clear starting point. Automating support operations to improve satisfaction and give deep oversight for decision makers. This wasn't just "AI customer support", but instead we actually performed administrative tasks across their productivity & property software. 
 
-Opsansa built the first _real_ omnichannel solution for maintaining communication across email, WhatsApp, iMessage, SMS and phone calls without dropping the call or deferring to a human operator. With our goal being to <b>get issue resolution down to minutes</b> instead of days and free up budget and time for the critical workforce. 
+Opsansa built the first _real_ omnichannel solution for maintaining communication across email, WhatsApp, iMessage, SMS and phone calls without dropping the call or deferring to a human operator. With our goal being to **get issue resolution down to minutes** instead of days and **free up budget and time for the critical workforce.** 
 
 Our past experience building award worthy AI agents fuelled this bold vision. Now we're certain the future of automated business ops is possible. With evermore of the operational work (think HR, payroll, rent roll etc.) being done by our "System of Agents".
 
